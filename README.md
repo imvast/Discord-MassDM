@@ -1,4 +1,5 @@
-# Discord Nitro Token Gen
-generates accounts on discord with 1m nitro
+$50 lifetime @ discord.gg/vast
 
-releasing @ discord.gg/vast
+or
+
+100 stars for public
