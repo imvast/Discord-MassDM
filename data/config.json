@@ -1,0 +1,20 @@
+{
+    "threads": 10,
+    "invite": "vast",
+    "wait_time": 1,
+    "scraper": {
+        "token": "",
+        "channel_id": ""
+    },
+    "captcha": {
+        "capService": "CAPSOLVER",
+        "capKey": ""
+    },
+    "logger": {
+        "style": "vertical",
+        "style_types": [
+            "horizontal",
+            "vertical"
+        ]
+    }
+}
